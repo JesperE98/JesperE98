@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JesperE98
-- 👀 I’m interested in Gaming, VR-Coding.
-- 🌱 I’m currently learning Blender, Unity and C#
-- 💞️ I’m looking to collaborate on VR-Development Companies
+- 👋 Hi, I’m Jesper
+- 👀 I’m interested in Gaming 🎮, training 🏃 and programming ^_^
+- 🌱 I’m currently learning C++ and OpenGL for Graphics Programming 
 - 📫 How to reach me jesperelmtoft.jobb@gmail.com
 
 <!---
